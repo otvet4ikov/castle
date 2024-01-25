@@ -7,4 +7,3 @@
 https://t.me/castle_danker
 
 ## Обучение и сертификаты
-[Uploading Программирование на Python.pdf…]()
